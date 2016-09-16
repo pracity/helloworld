@@ -18,7 +18,7 @@
 <tbody>
 <tr>
 <td colspan="2" align="center">
-<h3>Memory MXBean</h3>
+<h3>Memory MXBean<%=System.getProperty("java.version") %>></h3>
 </td>
 </tr>
  
